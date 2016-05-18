@@ -6,12 +6,9 @@ This is a final project in the Introduction to E-Learning course at Department o
 +     Students:
 +     HUANG, CHIH-YANG(黃志揚) 
 +     HE, WUN-RUEL (何玟叡)  
-+
 
 
-
-
---------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 +     Project Introduction :
 
 
