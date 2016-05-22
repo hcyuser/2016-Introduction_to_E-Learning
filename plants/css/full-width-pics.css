@@ -13,12 +13,12 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('../images/forest1.JPG') no-repeat center center scroll;
+	background: url('../images/forest1.jpg') no-repeat center center scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('../images/forest2.JPG') no-repeat center center scroll;
+	background: url('../images/forest2.jpg') no-repeat center center scroll;
     height: 450px;
 }
 
