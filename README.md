@@ -7,7 +7,7 @@ This is a final project in the Introduction to E-Learning course at Department o
 +     HUANG, CHIH-YANG(黃志揚) 
 +     HE, WUN-RUEL (何玟叡)  
 
-####  Project Demo: http://utcs.csie.org/~u10416001/2016-Introduction_to_E-Learning/plantswebpage/plantsinfo/
+####  [Project Demo]http://utcs.csie.org/~u10416001/2016-Introduction_to_E-Learning/plantswebpage/plantsinfo/
 ---------------------------------------------------------------------------------------------
 +     Topic: 校園植物導覽 以臺北市立大學為例
 +     Project Introduction :
@@ -17,6 +17,14 @@ This is a final project in the Introduction to E-Learning course at Department o
 	  ![Alt text](./3.png)
 	  ![Alt text](./4.png)
 	  ![Alt text](./5.png)
+	  
+	  
+	  
+	  
+####  Reference: 
++     [研發結合二維條碼(QR Code)的行動導覽系統](http://nthur.lib.nthu.edu.tw/handle/987654321/60643)	  
+	  
+	  
 
 
 
